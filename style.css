@@ -1,0 +1,22 @@
+.my-style {
+    background-color: skyblue;
+    color: #2d5e55;
+    border: 3px solid black;
+}
+
+#my-id {
+    background-color: lightgreen;
+    color: #bb1b1b;
+    border: 3px dotted black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+p {
+    background-color: lightgray;
+    color: #4f2929;
+    line-height: 100px;
+    letter-spacing: 5px;
+    font-weight: 900;
+    position: ;
+}
